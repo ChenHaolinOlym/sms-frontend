@@ -1,0 +1,36 @@
+{
+  "navbar": {
+    "home": "Home",
+    "events": "Events",
+    "create": "Create Pieces",
+    "settings": "Settings"
+  },
+  "home": {
+    "pieces": "pieces",
+    "name": "name",
+    "author": "author",
+    "lyricist": "lyricist",
+    "arranger": "arranger",
+    "opus": "opus",
+    "type": "type",
+    "copyright_expire_date": "copyright expire date",
+    "instrumentations": "instrumentations"
+  },
+  "buttons": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "reset": "Reset",
+    "upload": "Upload"
+  },
+  "validation": {
+    "select": "At least one should be selected",
+    "required": "This item is required",
+    "positive_integer": "Must be positive integer numbers"
+  },
+  "status": {
+    "success": "Success",
+    "fail": "Failed",
+    "reset": "Form Reset"
+  }
+}

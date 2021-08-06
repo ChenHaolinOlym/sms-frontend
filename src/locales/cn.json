@@ -1,0 +1,36 @@
+{
+  "navbar": {
+    "home": "主页",
+    "events": "活动",
+    "create": "创建新曲目",
+    "settings": "设置"
+  },
+  "home": {
+    "pieces": "曲目",
+    "name": "曲目名称",
+    "author": "作曲家",
+    "lyricist": "词作者",
+    "arranger": "编曲者",
+    "opus": "作品号",
+    "type": "类型",
+    "copyright_expire_date": "版权过期日期",
+    "instrumentations": "配器"
+  },
+  "buttons": {
+    "confirm": "确认",
+    "cancel": "取消",
+    "delete": "删除",
+    "reset": "重设",
+    "upload": "上传"
+  },
+  "validation": {
+    "select": "至少应该选中一个项目",
+    "required": "此项必填",
+    "positive_integer": "请输入正整数"
+  },
+  "status": {
+    "success": "成功",
+    "fail": "失败",
+    "reset": "重设成功"
+  }
+}
